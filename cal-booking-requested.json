@@ -1,0 +1,173 @@
+{
+  "triggerEvent": "BOOKING_REQUESTED",
+  "createdAt": "2026-02-28T22:05:43.481Z",
+  "payload": {
+    "bookerUrl": "https://cal.com",
+    "title": "Intro Call between Damian Galarza and Damian Galarza",
+    "startTime": "2026-03-31T22:30:00.000Z",
+    "endTime": "2026-03-31T23:00:00.000Z",
+    "additionalNotes": "",
+    "type": "intro-call",
+    "description": "A 30-minute call to talk through what you're working on and whether I can help. I'll be honest about fit. No pitch, no pressure.",
+    "eventTypeId": 1234567,
+    "hideCalendarNotes": false,
+    "hideCalendarEventDetails": false,
+    "hideOrganizerEmail": false,
+    "schedulingType": null,
+    "seatsPerTimeSlot": null,
+    "seatsShowAttendees": true,
+    "seatsShowAvailabilityCount": true,
+    "customReplyToEmail": null,
+    "disableRescheduling": false,
+    "disableCancelling": false,
+    "organizer": {
+      "id": 1234567,
+      "name": "Damian Galarza",
+      "email": "you@example.com",
+      "username": "dgalarza",
+      "timeZone": "America/New_York",
+      "language": {
+        "locale": "en"
+      },
+      "timeFormat": "h:mma",
+      "utcOffset": -240
+    },
+    "attendees": [
+      {
+        "name": "Damian Galarza",
+        "email": "you@example.com",
+        "timeZone": "America/New_York",
+        "language": {
+          "locale": "en"
+        },
+        "phoneNumber": null,
+        "bookingSeat": null,
+        "utcOffset": -240,
+        "firstName": "Damian",
+        "lastName": "Galarza"
+      }
+    ],
+    "customInputs": {},
+    "responses": {
+      "name": {
+        "label": "your_name",
+        "value": "Damian Galarza",
+        "isHidden": false
+      },
+      "email": {
+        "label": "email_address",
+        "value": "you@example.com",
+        "isHidden": false
+      },
+      "attendeePhoneNumber": {
+        "label": "phone_number",
+        "isHidden": true
+      },
+      "location": {
+        "label": "location",
+        "value": {
+          "value": "integrations:google:meet",
+          "optionValue": ""
+        },
+        "isHidden": false
+      },
+      "services": {
+        "label": " Which service are you interested in?",
+        "value": "AI Engineering",
+        "isHidden": false
+      },
+      "solve": {
+        "label": "What are you trying to solve?",
+        "value": "Agent workflows",
+        "isHidden": false
+      },
+      "companysize": {
+        "label": "Company size",
+        "value": "1-10",
+        "isHidden": false
+      },
+      "title": {
+        "label": "what_is_this_meeting_about",
+        "isHidden": true
+      },
+      "notes": {
+        "label": "additional_notes",
+        "isHidden": false
+      },
+      "guests": {
+        "label": "additional_guests",
+        "value": [],
+        "isHidden": false
+      },
+      "source": {
+        "label": "How did you find me?",
+        "value": "YouTube",
+        "isHidden": false
+      },
+      "rescheduleReason": {
+        "label": "reason_for_reschedule",
+        "isHidden": false
+      }
+    },
+    "userFieldsResponses": {
+      "services": {
+        "label": " Which service are you interested in?",
+        "value": "AI Engineering",
+        "isHidden": false
+      },
+      "solve": {
+        "label": "What are you trying to solve?",
+        "value": "Agent workflows",
+        "isHidden": false
+      },
+      "companysize": {
+        "label": "Company size",
+        "value": "1-10",
+        "isHidden": false
+      },
+      "source": {
+        "label": "How did you find me?",
+        "value": "YouTube",
+        "isHidden": false
+      }
+    },
+    "location": "integrations:google:meet",
+    "iCalUID": "abc123def456@Cal.com",
+    "iCalSequence": 0,
+    "requiresConfirmation": true,
+    "oneTimePassword": "REDACTED",
+    "platformClientId": "",
+    "platformRescheduleUrl": "",
+    "platformCancelUrl": "",
+    "platformBookingUrl": "",
+    "uid": "abc123def456",
+    "organizationId": null,
+    "hideBranding": false,
+    "destinationCalendar": [
+      {
+        "id": 123456,
+        "integration": "google_calendar",
+        "externalId": "you@example.com",
+        "primaryEmail": "you@example.com",
+        "userId": 1234567,
+        "eventTypeId": null,
+        "credentialId": 123456,
+        "createdAt": "2025-09-30T19:17:01.847Z",
+        "updatedAt": "2025-09-30T19:17:56.418Z",
+        "delegationCredentialId": null,
+        "domainWideDelegationCredentialId": null,
+        "customCalendarReminder": null
+      }
+    ],
+    "bookingId": 12345678,
+    "hashedLink": null,
+    "status": "PENDING",
+    "eventTitle": "Intro Call",
+    "eventDescription": "A 30-minute call to talk through what you're working on and whether I can help. I'll be honest about fit. No pitch, no pressure.",
+    "price": 0,
+    "currency": "usd",
+    "length": 30,
+    "assignmentReason": [],
+    "metadata": {}
+  }
+}
