@@ -4,7 +4,7 @@ A one-way [Claude Code Channel](https://code.claude.com/docs/en/channels) that r
 
 If this helped you, give it a star — it helps others find it.
 
-**Companion repo for my video: [Claude Code Channels — Turn Claude Into a Reactive Agent](https://youtube.com/@damian.galarza)**
+**Companion repo for my video: [Claude Code Channels — Turn Claude Into a Reactive Agent](https://youtu.be/35J7IsT2K24)**
 
 ## How It Works
 
@@ -91,6 +91,6 @@ The channel contract is simple: declare the capability, push notifications, writ
 
 **Built by [Damian Galarza](https://damiangalarza.com)** — 15+ years shipping production software, former CTO, daily Claude Code user. I share what actually works.
 
-- [Watch the video](https://youtube.com/@damian.galarza) — full walkthrough of channels + this demo
+- [Watch the video](https://youtu.be/35J7IsT2K24) — full walkthrough of channels + this demo
 - [Newsletter](https://damiangalarza.com/newsletter?utm_source=github&utm_medium=repo&utm_campaign=cal-webhook-channel) — I'm building more Claude Code automation patterns like this. Get them first.
 - [Book a free intro call](https://damiangalarza.com/claude-code?utm_source=github&utm_medium=repo&utm_campaign=cal-webhook-channel) — if you want help building Claude Code workflows for your team
